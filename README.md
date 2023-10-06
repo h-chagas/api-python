@@ -1,7 +1,7 @@
 # api-python
 
 ##### Purpose:  
-- This API provides consultation, creation, editing ans deletion of books.  
+- This API provides consultation, creation, editing and deletion of books.  
 - URL base: localhost.  
 -  Endpoints:  
     - localhost/books (GET), get all books
@@ -29,7 +29,7 @@ pip install flask
 
 ##### Data source:
 As this is a simple API, the data source will be a dictionary.    
-<code>
+```python
 books = [
     {
         'id': 1,
@@ -47,7 +47,7 @@ books = [
         'author': 'Herman Melville'
     },
 ]
-</code>
+```
 <br/>  
 
 ##### Results  

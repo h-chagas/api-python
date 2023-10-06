@@ -1,9 +1,6 @@
 # api-python
 
-##### This API:  
-<br/>
-
-###### Purpose:  
+##### Purpose:  
 - This API provides consultation, creation, editing ans deletion of books.  
 - URL base: localhost.  
 -  Endpoints:  
@@ -31,6 +28,52 @@ pip install flask
 ```  
 
 ##### Data source:
-As this is a simple API, the data source will be a dictionary:  
+As this is a simple API, the data source will be a dictionary.    
+<code>
+books = [
+    {
+        'id': 1,
+        'title': '365 Days of Dad Jokes',
+        'author': 'Jim Chumley'
+    },
+    {
+        'id': 2,
+        'title': 'Building High Performance Agile Teams',
+        'author': 'Made Tech'
+    },
+    {
+        'id': 3,
+        'title': 'Moby-Dick',
+        'author': 'Herman Melville'
+    },
+]
+</code>
+<br/>  
 
+##### Results  
+
+###### Get all Books (GET)  
+[screenshot](\screenshots\1-get_all_books.png)
+
+<br/>
+
+###### Create a Book (POST) 
+
+
+<br/>
+
+###### Get a Book by ID (GET)  
+
+
+<br/>
+
+###### Modify a Book (PUT)  
+
+
+<br/>
+
+###### Delete a Book (DELETE)  
+
+
+<br/>
 

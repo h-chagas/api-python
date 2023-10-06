@@ -53,28 +53,27 @@ books = [
 ##### Results  
 
 ###### Get all Books (GET)  
-<!-- [screenshot](\screenshots\1-get_all_books.png) -->
 <img src='\screenshots\1-get_all_books.png'/>
 
 <br/>
 
 ###### Create a Book (POST) 
-
+<img src='\screenshots\2-post_create_a_book.png'/>
 
 <br/>
 
 ###### Get a Book by ID (GET)  
-
+<img src='\screenshots\3-get_a_book_by_id.png'/>
 
 <br/>
 
 ###### Modify a Book (PUT)  
-
+<img src='\screenshots\4-modify_a_book.png'/>
 
 <br/>
 
 ###### Delete a Book (DELETE)  
-
+<img src='\screenshots\5-delete_a_book.png'/>
 
 <br/>
 

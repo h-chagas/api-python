@@ -2,7 +2,7 @@
 
 ##### How this APi was created:
 
-###### Install Flask
+###### 1. Install Flask
 
 ```bash
 pip install flask

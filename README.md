@@ -53,7 +53,8 @@ books = [
 ##### Results  
 
 ###### Get all Books (GET)  
-[screenshot](\screenshots\1-get_all_books.png)
+<!-- [screenshot](\screenshots\1-get_all_books.png) -->
+<img src='\screenshots\1-get_all_books.png'/>
 
 <br/>
 
